@@ -7,8 +7,8 @@ This repository contains my **LeetCode solutions**, created as part of my contin
 ---
 ## 🔗 Connect with Me
 
-* **LeetCode Profile:** [Your Profile Link](https://leetcode.com/u/nickspartan01/)
-* **LinkedIn:** [Your Name](https://www.linkedin.com/in/nick-sakwa-303a98146/)
+* **LeetCode Profile:** [My leetcode Profile](https://leetcode.com/u/nickspartan01/)
+* **LinkedIn:** [My linkedin Profile](https://www.linkedin.com/in/nick-sakwa-303a98146/)
 
 ---
 
