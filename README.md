@@ -1,6 +1,14 @@
+
+
 # 🧠 LeetCode Problem Solving Repository
 
 This repository contains my **LeetCode solutions**, created as part of my continuous journey to improve **data structures, algorithms, and problem‑solving skills**. The goal is to write **clean, efficient, and well‑documented code** while reinforcing core computer science concepts.
+
+---
+## 🔗 Connect with Me
+
+* **LeetCode Profile:** [Your Profile Link](https://leetcode.com/u/nickspartan01/)
+* **LinkedIn:** [Your Name](https://www.linkedin.com/in/nick-sakwa-303a98146/)
 
 ---
 
@@ -106,4 +114,65 @@ This repository is licensed under the **MIT License**. You are free to use the c
 
 ---
 
-Happy coding 🚀
+A well-structured README turns a simple code dump into a professional portfolio that demonstrates your growth to recruiters.
+
+Here is a clean, professional template designed for a LeetCode repository.
+
+---
+
+# 🚀 LeetCode Solutions Portfolio
+
+Welcome! This repository is a dedicated space where I document my journey through algorithmic challenges. It serves as a personal library of patterns, data structures, and optimized solutions.
+
+## 📊 My Progress
+
+| Difficulty | Solved | Target | Status |
+| --- | --- | --- | --- |
+| 🟢 **Easy** | 15 | 100 | `In Progress` |
+| 🟡 **Medium** | 10 | 150 | `In Progress` |
+| 🔴 **Hard** | 2 | 50 | `Grinding` |
+| **Total** | **27** | **300** | **9% Complete** |
+
+## 📂 Repository Structure
+
+The solutions are organized by problem name and difficulty for easy navigation:
+
+```text
+.
+├── 🟢 Easy/
+│   ├── Two-Sum/
+│   │   ├── Solution.py
+│   │   └── Notes.md          # My logic and complexity analysis
+├── 🟡 Medium/
+│   └── Add-Two-Numbers/
+│       └── Solution.java
+└── 🔴 Hard/
+    └── Trapping-Rain-Water/
+        └── Solution.cpp
+
+```
+
+## 🛠️ Tech Stack & Patterns
+
+* **Primary Languages:** Python 3, C++, Java.
+* **Key Patterns Covered:**
+* **Arrays & Hashing:** Two Pointers, Sliding Window.
+* **Data Structures:** Linked Lists, Trees, Graphs, Heaps.
+* **Algorithms:** BFS/DFS, Backtracking, Dynamic Programming.
+
+
+
+## 📝 Learning Philosophy
+
+For every problem, I aim for more than just a "Pass":
+
+1. **Understand:** Break down the constraints and edge cases.
+2. **Brute Force:** Write the initial solution to ensure logic is sound.
+3. **Optimize:** Refine for better Time () and Space complexity.
+4. **Document:** Briefly explain the "Aha!" moment in the solution notes.
+
+---
+
+
+
+
