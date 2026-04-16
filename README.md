@@ -33,10 +33,22 @@ leetcode-solutions/
 │
 ├── sqljoinpandas/
 │  
+├── docs/
+│   ├── README.md
+│   ├── system-architecture-and-design.md
+│   └── technical-reference-manual.md
 └── README.md
 ```
 
 > 📌 *Folder names represent problem categories. File names match the LeetCode problem title where possible.*
+
+## 📚 Documentation
+
+Documentation for this repository is available in `docs/`:
+
+- `docs/README.md` — SQL solutions overview and category map.
+- `docs/system-architecture-and-design.md` — architecture, design patterns, and algorithmic concepts.
+- `docs/technical-reference-manual.md` — clause-level reasoning and grouped SQL explanations.
 
 ---
 
