@@ -82,6 +82,19 @@ Each solution typically contains:
 
 ---
 
+## How the SQL solutions are grouped
+
+The SQL files are organized into the following natural categories:
+
+- `customerorders/` — customer, order, and sales analysis using JOINs, aggregation, and filtering.
+- `salesproducts/` — product analytics, first-year sales, and joins between sales and product metadata.
+- `Employees/` — employee ranking, salary queries, manager relationships, and conditional updates.
+- `countries/` / `rateoftripcancellation/` / `qualitypercentage/` — business reporting queries that use `GROUP BY`, `CASE`, and conditional aggregates.
+- `game-play-analysis/` / `stadium/` / `person_queries/` — analytic queries with window functions, derived tables, and event-based date logic.
+- `treenode-problems/` / `triangle-problem/` / `exchangeseatproblem/` — classification and conditional output queries using `CASE`.
+- `duplicateemail/` — duplicate detection and deletion using grouping and self-joins.
+- `movies/` — simple filter and sort examples.
+
 ## 📈 Progress Tracking
 
 * Problems solved: **X**
