@@ -1,8 +1,8 @@
 SELECT 
-    C.name AS Customers
+    name AS Customers
 FROM 
-    Customers C
+    Customers 
 LEFT JOIN 
-    Orders O ON C.id = O.customerId
+    Orders  ON Customers.id = Orders.customerId
 WHERE 
-    O.id IS NULL;
+    Orders.id IS NULL;
